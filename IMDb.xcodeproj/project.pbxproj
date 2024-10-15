@@ -6,6 +6,15 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		8A07E78F2CBEF88E00A2032B /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 8A07E78E2CBEF88E00A2032B /* Alamofire */; };
+		8A07E7922CBEFA2F00A2032B /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = 8A07E7912CBEFA2F00A2032B /* Kingfisher */; };
+		8A07E7952CBEFB5C00A2032B /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 8A07E7942CBEFB5C00A2032B /* RxCocoa */; };
+		8A07E7972CBEFB5C00A2032B /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 8A07E7962CBEFB5C00A2032B /* RxSwift */; };
+		8A07E79A2CBEFBE600A2032B /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 8A07E7992CBEFBE600A2032B /* SnapKit */; };
+		8A07E79D2CBEFE9E00A2032B /* Swinject in Frameworks */ = {isa = PBXBuildFile; productRef = 8A07E79C2CBEFE9E00A2032B /* Swinject */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		8A07E76C2CBEF0EE00A2032B /* IMDb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IMDb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -36,6 +45,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A07E7952CBEFB5C00A2032B /* RxCocoa in Frameworks */,
+				8A07E7922CBEFA2F00A2032B /* Kingfisher in Frameworks */,
+				8A07E7972CBEFB5C00A2032B /* RxSwift in Frameworks */,
+				8A07E78F2CBEF88E00A2032B /* Alamofire in Frameworks */,
+				8A07E79A2CBEFBE600A2032B /* SnapKit in Frameworks */,
+				8A07E79D2CBEFE9E00A2032B /* Swinject in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +93,12 @@
 			);
 			name = IMDb;
 			packageProductDependencies = (
+				8A07E78E2CBEF88E00A2032B /* Alamofire */,
+				8A07E7912CBEFA2F00A2032B /* Kingfisher */,
+				8A07E7942CBEFB5C00A2032B /* RxCocoa */,
+				8A07E7962CBEFB5C00A2032B /* RxSwift */,
+				8A07E7992CBEFBE600A2032B /* SnapKit */,
+				8A07E79C2CBEFE9E00A2032B /* Swinject */,
 			);
 			productName = IMDb;
 			productReference = 8A07E76C2CBEF0EE00A2032B /* IMDb.app */;
@@ -107,6 +128,13 @@
 			);
 			mainGroup = 8A07E7632CBEF0EE00A2032B;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				8A07E78D2CBEF88E00A2032B /* XCRemoteSwiftPackageReference "Alamofire" */,
+				8A07E7902CBEFA2F00A2032B /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				8A07E7932CBEFB5C00A2032B /* XCRemoteSwiftPackageReference "RxSwift" */,
+				8A07E7982CBEFBE600A2032B /* XCRemoteSwiftPackageReference "SnapKit" */,
+				8A07E79B2CBEFE9E00A2032B /* XCRemoteSwiftPackageReference "Swinject" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 8A07E76D2CBEF0EE00A2032B /* Products */;
 			projectDirPath = "";
@@ -149,7 +177,6 @@
 				INFOPLIST_FILE = IMDb/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -176,7 +203,6 @@
 				INFOPLIST_FILE = IMDb/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -333,6 +359,82 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8A07E78D2CBEF88E00A2032B /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.10.0;
+			};
+		};
+		8A07E7902CBEFA2F00A2032B /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.1.0;
+			};
+		};
+		8A07E7932CBEFB5C00A2032B /* XCRemoteSwiftPackageReference "RxSwift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ReactiveX/RxSwift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 6.8.0;
+			};
+		};
+		8A07E7982CBEFBE600A2032B /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+		8A07E79B2CBEFE9E00A2032B /* XCRemoteSwiftPackageReference "Swinject" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Swinject/Swinject";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.9.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8A07E78E2CBEF88E00A2032B /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8A07E78D2CBEF88E00A2032B /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		8A07E7912CBEFA2F00A2032B /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8A07E7902CBEFA2F00A2032B /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		8A07E7942CBEFB5C00A2032B /* RxCocoa */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8A07E7932CBEFB5C00A2032B /* XCRemoteSwiftPackageReference "RxSwift" */;
+			productName = RxCocoa;
+		};
+		8A07E7962CBEFB5C00A2032B /* RxSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8A07E7932CBEFB5C00A2032B /* XCRemoteSwiftPackageReference "RxSwift" */;
+			productName = RxSwift;
+		};
+		8A07E7992CBEFBE600A2032B /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8A07E7982CBEFBE600A2032B /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+		8A07E79C2CBEFE9E00A2032B /* Swinject */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8A07E79B2CBEFE9E00A2032B /* XCRemoteSwiftPackageReference "Swinject" */;
+			productName = Swinject;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8A07E7642CBEF0EE00A2032B /* Project object */;
 }
