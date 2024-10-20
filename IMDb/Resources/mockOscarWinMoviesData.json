@@ -1,0 +1,1456 @@
+{
+    "status": true,
+    "message": "Success",
+    "timestamp": 1729193545373,
+    "data": [
+        {
+            "id": "tt11315808",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "Joker: Folie à Deux"
+            },
+            "primaryImage": {
+                "id": "rm1262510593",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BZTE0M2Q0ODgtY2U2My00YThlLWI1ZjUtNzBkMmU4NTQ2YzVlXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 2000,
+                "imageHeight": 3000
+            },
+            "ratingsSummary": {
+                "aggregateRating": 5.3,
+                "topRanking": {
+                    "rank": 5904
+                },
+                "voteCount": 78120
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "Joker: Folie à Deux"
+            },
+            "titleType": {
+                "id": "movie",
+                "text": "Movie",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": ""
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "movie",
+                        "text": "Movie",
+                        "value": "movie"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "isSeries": false,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": []
+            },
+            "plot": {
+                "id": "po8020010",
+                "author": null,
+                "plotText": {
+                    "plainText": "Struggling with his dual identity, failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt11315808/contribution/plot/po8020010/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt11315808/contribution/plot/po8020010/report"
+                }
+            },
+            "releaseDate": {
+                "day": 4,
+                "month": 10,
+                "year": 2024,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": []
+            },
+            "titleCertificate": {
+                "rating": "R",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": "Rated R for some strong violence, language throughout, some sexuality, and brief full nudity."
+            },
+            "titleRuntime": {
+                "seconds": 8280,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 1,
+                "rankChange": {
+                    "changeDirection": "FLAT",
+                    "difference": 0
+                }
+            }
+        },
+        {
+            "id": "tt13207736",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "Monsters"
+            },
+            "primaryImage": {
+                "id": "rm2683399937",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDAzYzEzZDMtOWE3Ny00MTU3LWIwY2MtMDYzZmYzYTZkYjJkXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 1013,
+                "imageHeight": 1500
+            },
+            "ratingsSummary": {
+                "aggregateRating": 7.8,
+                "topRanking": {
+                    "rank": 1003
+                },
+                "voteCount": 177996
+            },
+            "releaseYear": {
+                "year": 2022,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "Monsters"
+            },
+            "titleType": {
+                "id": "tvSeries",
+                "text": "TV Series",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "TV Series"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "tv",
+                        "text": "TV",
+                        "value": "tv"
+                    }
+                ],
+                "canHaveEpisodes": true,
+                "isSeries": true,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.netflix",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with subscription"
+                                    },
+                                    "name": {
+                                        "value": "Netflix"
+                                    },
+                                    "refTagFragment": "netflix",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/f409199e-794d-4822-acf9-38bca16baa5e._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Netflix"
+                                },
+                                "description": {
+                                    "value": "S1 with subscription"
+                                },
+                                "shortDescription": {
+                                    "value": "S1"
+                                },
+                                "link": "https://www.netflix.com/watch/81665094?source=imdb"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po5332236",
+                "author": null,
+                "plotText": {
+                    "plainText": "An anthology series about high-profile crimes or killers that captured public attention and notoriety."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt13207736/contribution/plot/po5332236/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt13207736/contribution/plot/po5332236/report"
+                }
+            },
+            "releaseDate": {
+                "day": 21,
+                "month": 9,
+                "year": 2022,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": [
+                    {
+                        "text": "internet"
+                    }
+                ]
+            },
+            "titleCertificate": {
+                "rating": "TV-MA",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": {
+                "seconds": 3600,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 2,
+                "rankChange": {
+                    "changeDirection": "FLAT",
+                    "difference": 0
+                }
+            }
+        },
+        {
+            "id": "tt15435876",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "The Penguin"
+            },
+            "primaryImage": {
+                "id": "rm996501761",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmU3MzYzOWEtOTdkZi00YzA1LTliMzQtNDdiZDBjY2FiNmFlXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 1296,
+                "imageHeight": 1920
+            },
+            "ratingsSummary": {
+                "aggregateRating": 8.8,
+                "topRanking": {
+                    "rank": 90
+                },
+                "voteCount": 35701
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": 2024
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "The Penguin"
+            },
+            "titleType": {
+                "id": "tvMiniSeries",
+                "text": "TV Mini Series",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "TV Mini Series"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "tv",
+                        "text": "TV",
+                        "value": "tv"
+                    }
+                ],
+                "canHaveEpisodes": true,
+                "isSeries": true,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.prime_video.hbomaxus",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with Prime Video Channels"
+                                    },
+                                    "name": {
+                                        "value": "Max"
+                                    },
+                                    "refTagFragment": "hbomax",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/3e152962-a236-46be-aa94-2a48296d7129._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/7cdcbf4e-6afe-4136-be75-cd6f2d237c63._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Max"
+                                },
+                                "description": {
+                                    "value": "S1 with Prime Video Channels"
+                                },
+                                "shortDescription": {
+                                    "value": "S1"
+                                },
+                                "link": "aiv://aiv/view?gti=amzn1.dv.gti.79ba6406-5256-4a4c-bffd-153028791a11"
+                            },
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.hbo_max",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with subscription"
+                                    },
+                                    "name": {
+                                        "value": "Max"
+                                    },
+                                    "refTagFragment": "hbomax",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/7660eee6-3846-43e9-aadd-bff7846554fb._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/609ae2bb-6e79-45ae-bd76-75da3afac406._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Max"
+                                },
+                                "description": {
+                                    "value": "S1 with subscription"
+                                },
+                                "shortDescription": {
+                                    "value": "S1"
+                                },
+                                "link": "https://play.max.com/show/5756c2bf-36f8-4890-b1f9-ef168f1d8e9c"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po6486037",
+                "author": null,
+                "plotText": {
+                    "plainText": "Following the events of The Batman (2022), Oz Cobb, a.k.a. the Penguin, makes a play to seize the reins of the crime world in Gotham."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt15435876/contribution/plot/po6486037/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt15435876/contribution/plot/po6486037/report"
+                }
+            },
+            "releaseDate": {
+                "day": 19,
+                "month": 9,
+                "year": 2024,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": []
+            },
+            "titleCertificate": {
+                "rating": "TV-MA",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": null,
+            "chartMeterRanking": {
+                "currentRank": 3,
+                "rankChange": {
+                    "changeDirection": "FLAT",
+                    "difference": 0
+                }
+            }
+        },
+        {
+            "id": "tt26933824",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "Nobody Wants This"
+            },
+            "primaryImage": {
+                "id": "rm2155900673",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjAzMjEzYTQtM2M3Yi00ZGVjLWE1ODQtZTQzYTcxMjQ5N2Y4XkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 2500,
+                "imageHeight": 3702
+            },
+            "ratingsSummary": {
+                "aggregateRating": 8.1,
+                "topRanking": {
+                    "rank": 800
+                },
+                "voteCount": 26516
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "Nobody Wants This"
+            },
+            "titleType": {
+                "id": "tvSeries",
+                "text": "TV Series",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "TV Series"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "tv",
+                        "text": "TV",
+                        "value": "tv"
+                    }
+                ],
+                "canHaveEpisodes": true,
+                "isSeries": true,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.netflix",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with subscription"
+                                    },
+                                    "name": {
+                                        "value": "Netflix"
+                                    },
+                                    "refTagFragment": "netflix",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/f409199e-794d-4822-acf9-38bca16baa5e._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/9516b142-0c88-4475-a39b-97c06546cdc5._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Netflix"
+                                },
+                                "description": {
+                                    "value": "S1 with subscription"
+                                },
+                                "shortDescription": {
+                                    "value": "S1"
+                                },
+                                "link": "https://www.netflix.com/watch/81591296?source=imdb"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po7125417",
+                "author": null,
+                "plotText": {
+                    "plainText": "Follows the unexpected relationship between a rogue rabbi and an irascible, loud, agnostic woman."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt26933824/contribution/plot/po7125417/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt26933824/contribution/plot/po7125417/report"
+                }
+            },
+            "releaseDate": {
+                "day": 26,
+                "month": 9,
+                "year": 2024,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": [
+                    {
+                        "text": "internet"
+                    }
+                ]
+            },
+            "titleCertificate": {
+                "rating": "TV-MA",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": {
+                "seconds": 1800,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 4,
+                "rankChange": {
+                    "changeDirection": "FLAT",
+                    "difference": 0
+                }
+            }
+        },
+        {
+            "id": "tt7631058",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "The Lord of the Rings: The Rings of Power"
+            },
+            "primaryImage": {
+                "id": "rm937590017",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNmVmZGQ2ZTctYzE4NC00YzkxLThhNjYtNGIyZjJmZGEwMjUzXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 2000,
+                "imageHeight": 3000
+            },
+            "ratingsSummary": {
+                "aggregateRating": 6.9,
+                "topRanking": {
+                    "rank": 2021
+                },
+                "voteCount": 398505
+            },
+            "releaseYear": {
+                "year": 2022,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "The Lord of the Rings: The Rings of Power"
+            },
+            "titleType": {
+                "id": "tvSeries",
+                "text": "TV Series",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "TV Series"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "tv",
+                        "text": "TV",
+                        "value": "tv"
+                    }
+                ],
+                "canHaveEpisodes": true,
+                "isSeries": true,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.prime_video.freevee",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "Watch Free on Freevee"
+                                    },
+                                    "name": {
+                                        "value": "Freevee"
+                                    },
+                                    "refTagFragment": "fdv",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/119794c1-a963-4cda-84e7-aa9c8cd733d2._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/65662a3b-47eb-4271-9830-773014309b44._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Freevee"
+                                },
+                                "description": {
+                                    "value": "S1 Watch Free on Freevee"
+                                },
+                                "shortDescription": {
+                                    "value": "S1"
+                                },
+                                "link": "https://www.imdbtv.com/deeplink?contentId=amzn1.dv.gti.f856462e-f3f0-47d6-99a7-8e7900ffb935&destination=Playback&type=VOD&ref_tag=imdb_app"
+                            },
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.prime_video.PRIME",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "included with Prime"
+                                    },
+                                    "name": {
+                                        "value": "Prime Video"
+                                    },
+                                    "refTagFragment": "pvs_piv",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/e062ea53-945a-42cb-8d15-6405531687ec._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/75f35a85-7a6e-4f1f-bf8b-e4c8556bc4e4._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Prime Video"
+                                },
+                                "description": {
+                                    "value": "S1-2 included with Prime"
+                                },
+                                "shortDescription": {
+                                    "value": "S1-2"
+                                },
+                                "link": "aiv://aiv/resume?gti=amzn1.dv.gti.f856462e-f3f0-47d6-99a7-8e7900ffb935"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po3604884",
+                "author": null,
+                "plotText": {
+                    "plainText": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt7631058/contribution/plot/po3604884/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt7631058/contribution/plot/po3604884/report"
+                }
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 9,
+                "year": 2022,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": [
+                    {
+                        "text": "internet"
+                    }
+                ]
+            },
+            "titleCertificate": {
+                "rating": "TV-14",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": {
+                "seconds": 3600,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 5,
+                "rankChange": {
+                    "changeDirection": "FLAT",
+                    "difference": 0
+                }
+            }
+        },
+        {
+            "id": "tt27911000",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "Terrifier 3"
+            },
+            "primaryImage": {
+                "id": "rm1974431489",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzc2MWUyYzctY2E4Ny00ZTlmLThjNTMtMTViZGI5NjcyN2EzXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 2000,
+                "imageHeight": 2963
+            },
+            "ratingsSummary": {
+                "aggregateRating": 7.1,
+                "topRanking": null,
+                "voteCount": 8232
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "Terrifier 3"
+            },
+            "titleType": {
+                "id": "movie",
+                "text": "Movie",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": ""
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "movie",
+                        "text": "Movie",
+                        "value": "movie"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "isSeries": false,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": []
+            },
+            "plot": {
+                "id": "po7283148",
+                "author": null,
+                "plotText": {
+                    "plainText": "Art the Clown is set to unleash chaos on the unsuspecting residents of Miles County as they peacefully drift off to sleep on Christmas Eve."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt27911000/contribution/plot/po7283148/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt27911000/contribution/plot/po7283148/report"
+                }
+            },
+            "releaseDate": {
+                "day": 11,
+                "month": 10,
+                "year": 2024,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": []
+            },
+            "titleCertificate": {
+                "rating": "Not Rated",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": {
+                "seconds": 7500,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 6,
+                "rankChange": {
+                    "changeDirection": "UP",
+                    "difference": 22
+                }
+            }
+        },
+        {
+            "id": "tt17526714",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "The Substance"
+            },
+            "primaryImage": {
+                "id": "rm2243260161",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 1944,
+                "imageHeight": 2844
+            },
+            "ratingsSummary": {
+                "aggregateRating": 7.7,
+                "topRanking": {
+                    "rank": 855
+                },
+                "voteCount": 52046
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "The Substance"
+            },
+            "titleType": {
+                "id": "movie",
+                "text": "Movie",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": ""
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "movie",
+                        "text": "Movie",
+                        "value": "movie"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "isSeries": false,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": []
+            },
+            "plot": {
+                "id": "po7921659",
+                "author": null,
+                "plotText": {
+                    "plainText": "A fading celebrity takes a black-market drug: a cell-replicating substance that temporarily creates a younger, better version of herself."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt17526714/contribution/plot/po7921659/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt17526714/contribution/plot/po7921659/report"
+                }
+            },
+            "releaseDate": {
+                "day": 20,
+                "month": 9,
+                "year": 2024,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": []
+            },
+            "titleCertificate": {
+                "rating": "R",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": "Rated R for strong bloody violent content, gore, graphic nudity and language."
+            },
+            "titleRuntime": {
+                "seconds": 8460,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 7,
+                "rankChange": {
+                    "changeDirection": "DOWN",
+                    "difference": 1
+                }
+            }
+        },
+        {
+            "id": "tt10245072",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "Salem's Lot"
+            },
+            "primaryImage": {
+                "id": "rm3652742401",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTVhN2Y4NDAtYjFmMC00YjI3LTgyMTctYmNmZDhjZmU0MGQ0XkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 810,
+                "imageHeight": 1200
+            },
+            "ratingsSummary": {
+                "aggregateRating": 5.7,
+                "topRanking": null,
+                "voteCount": 19349
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "Salem's Lot"
+            },
+            "titleType": {
+                "id": "movie",
+                "text": "Movie",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": ""
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "movie",
+                        "text": "Movie",
+                        "value": "movie"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "isSeries": false,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.prime_video.hbomaxus",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with Prime Video Channels"
+                                    },
+                                    "name": {
+                                        "value": "Max"
+                                    },
+                                    "refTagFragment": "hbomax",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/3e152962-a236-46be-aa94-2a48296d7129._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/7cdcbf4e-6afe-4136-be75-cd6f2d237c63._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Max"
+                                },
+                                "description": {
+                                    "value": "with Prime Video Channels"
+                                },
+                                "shortDescription": null,
+                                "link": "aiv://aiv/view?gti=amzn1.dv.gti.a96dc70c-d7ff-4be5-bc29-73cb3244a4f6"
+                            },
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.hbo_max",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with subscription"
+                                    },
+                                    "name": {
+                                        "value": "Max"
+                                    },
+                                    "refTagFragment": "hbomax",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/7660eee6-3846-43e9-aadd-bff7846554fb._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/609ae2bb-6e79-45ae-bd76-75da3afac406._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Max"
+                                },
+                                "description": {
+                                    "value": "with subscription"
+                                },
+                                "shortDescription": null,
+                                "link": "https://play.max.com/video/watch/5313cc72-40db-4c43-ab41-a4e919467488"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po4499333",
+                "author": null,
+                "plotText": {
+                    "plainText": "An author returns to his hometown of Jerusalem's Lot in search of inspiration for his next book, only to discover that the townspeople are being attacked by a bloodthirsty vampire."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt10245072/contribution/plot/po4499333/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt10245072/contribution/plot/po4499333/report"
+                }
+            },
+            "releaseDate": {
+                "day": 3,
+                "month": 10,
+                "year": 2024,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": [
+                    {
+                        "text": "internet"
+                    }
+                ]
+            },
+            "titleCertificate": {
+                "rating": "R",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": "Rated R for bloody violence and language"
+            },
+            "titleRuntime": {
+                "seconds": 6840,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 8,
+                "rankChange": {
+                    "changeDirection": "UP",
+                    "difference": 3
+                }
+            }
+        },
+        {
+            "id": "tt9813792",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "From"
+            },
+            "primaryImage": {
+                "id": "rm2002022145",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzM5ZWMxOGEtZjEyMC00YjQ0LThiYjEtZjVkZGEzN2NlOGEwXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 1296,
+                "imageHeight": 1920
+            },
+            "ratingsSummary": {
+                "aggregateRating": 7.8,
+                "topRanking": {
+                    "rank": 1181
+                },
+                "voteCount": 94473
+            },
+            "releaseYear": {
+                "year": 2022,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "From"
+            },
+            "titleType": {
+                "id": "tvSeries",
+                "text": "TV Series",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "TV Series"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "tv",
+                        "text": "TV",
+                        "value": "tv"
+                    }
+                ],
+                "canHaveEpisodes": true,
+                "isSeries": true,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.epix",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "MGM+ with subscription"
+                                    },
+                                    "name": {
+                                        "value": "MGM+"
+                                    },
+                                    "refTagFragment": "epix",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/76b69991-2343-4544-8742-4a62f576c1fe._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/48d664d7-e2b4-423f-a1ed-454c1fbdbe83._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on MGM+"
+                                },
+                                "description": {
+                                    "value": "S1-3 MGM+ with subscription"
+                                },
+                                "shortDescription": {
+                                    "value": "S1-3"
+                                },
+                                "link": "https://mgmplus.com/"
+                            },
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.prime_video.epix",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with Prime Video Channels"
+                                    },
+                                    "name": {
+                                        "value": "MGM+"
+                                    },
+                                    "refTagFragment": "pvc_epix",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/fc82fd58-5458-43a7-bf6e-2c220bc252bd._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/f93bcf1a-b541-4534-96c9-d75bf78ce8ce._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on MGM+"
+                                },
+                                "description": {
+                                    "value": "S1-3 with Prime Video Channels"
+                                },
+                                "shortDescription": {
+                                    "value": "S1-3"
+                                },
+                                "link": "aiv://aiv/view?gti=amzn1.dv.gti.ff933791-74c5-43ef-917d-5cca9a7b1c74"
+                            }
+                        ]
+                    },
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.prime_video",
+                                    "categoryType": "RENT_OR_BUY",
+                                    "description": null,
+                                    "name": {
+                                        "value": "Prime Video"
+                                    },
+                                    "refTagFragment": "pvt_aiv",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/4c192978-331f-429e-9c97-02d5ed9d436e._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/b63dfed5-e4fa-434c-be14-d2dc2b60fbae._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Prime Video"
+                                },
+                                "description": {
+                                    "value": "buy from $9.99"
+                                },
+                                "shortDescription": {
+                                    "value": "from $9.99"
+                                },
+                                "link": "aiv://aiv/view?gti=amzn1.dv.gti.ff933791-74c5-43ef-917d-5cca9a7b1c74"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po6450598",
+                "author": null,
+                "plotText": {
+                    "plainText": "Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt9813792/contribution/plot/po6450598/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt9813792/contribution/plot/po6450598/report"
+                }
+            },
+            "releaseDate": {
+                "day": 20,
+                "month": 2,
+                "year": 2022,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": []
+            },
+            "titleCertificate": {
+                "rating": "TV-MA",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": {
+                "seconds": 3120,
+                "displayableProperty": {
+                    "qualifiersInMarkdownList": null
+                }
+            },
+            "chartMeterRanking": {
+                "currentRank": 9,
+                "rankChange": {
+                    "changeDirection": "FLAT",
+                    "difference": 0
+                }
+            }
+        },
+        {
+            "id": "tt5875444",
+            "isAdult": false,
+            "canRateTitle": {
+                "isRatable": true
+            },
+            "originalTitleText": {
+                "text": "Slow Horses"
+            },
+            "primaryImage": {
+                "id": "rm4040583425",
+                "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTdiZDlkYTYtMTMwOC00YzczLWI1ZGEtNWU1ZWZkMDAxNGMxXkEyXkFqcGc@._V1_.jpg",
+                "imageWidth": 1080,
+                "imageHeight": 1920
+            },
+            "ratingsSummary": {
+                "aggregateRating": 8.2,
+                "topRanking": {
+                    "rank": 569
+                },
+                "voteCount": 87612
+            },
+            "releaseYear": {
+                "year": 2022,
+                "endYear": null
+            },
+            "titleEpisode": null,
+            "titleText": {
+                "text": "Slow Horses"
+            },
+            "titleType": {
+                "id": "tvSeries",
+                "text": "TV Series",
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "TV Series"
+                    }
+                },
+                "categories": [
+                    {
+                        "id": "tv",
+                        "text": "TV",
+                        "value": "tv"
+                    }
+                ],
+                "canHaveEpisodes": true,
+                "isSeries": true,
+                "isEpisode": false
+            },
+            "series": null,
+            "watchOptionsByCategory": {
+                "categorizedWatchOptionsList": [
+                    {
+                        "watchOptions": [
+                            {
+                                "provider": {
+                                    "id": "amzn1.imdb.w2w.provider.appletv",
+                                    "categoryType": "SUBSCRIPTION",
+                                    "description": {
+                                        "value": "with subscription"
+                                    },
+                                    "name": {
+                                        "value": "Apple TV+"
+                                    },
+                                    "refTagFragment": "appletv",
+                                    "logos": {
+                                        "icon": {
+                                            "url": "https://m.media-amazon.com/images/M/d2b632fd-044d-40de-a1c8-fc920e2f5d4d._V1_.png",
+                                            "width": 500,
+                                            "height": 500
+                                        },
+                                        "slate": {
+                                            "url": "https://m.media-amazon.com/images/M/2b1f9c41-9007-447c-9aec-663ad10f5805._V1_.png",
+                                            "width": 1280,
+                                            "height": 720
+                                        }
+                                    }
+                                },
+                                "title": {
+                                    "value": "Watch on Apple TV+"
+                                },
+                                "description": {
+                                    "value": "S1-4 with subscription"
+                                },
+                                "shortDescription": {
+                                    "value": "S1-4"
+                                },
+                                "link": "https://srv.clickfuse.com/ads/adclkr.php?id=100006140&url=https%3A%2F%2Ftv.apple.com%2Fus%2Fchannel%2Ftvs.sbd.4000"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "plot": {
+                "id": "po4849223",
+                "author": null,
+                "plotText": {
+                    "plainText": "Follows a team of British intelligence agents who serve as a dumping ground department of MI5 due to their career-ending mistakes."
+                },
+                "correctionLink": {
+                    "url": "https://m.imdb.com/title/tt5875444/contribution/plot/po4849223/edit"
+                },
+                "reportingLink": {
+                    "url": "https://m.imdb.com/title/tt5875444/contribution/plot/po4849223/report"
+                }
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 4,
+                "year": 2022,
+                "country": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "restriction": null,
+                "releaseAttributes": [
+                    {
+                        "text": "internet"
+                    }
+                ]
+            },
+            "titleCertificate": {
+                "rating": "TV-MA",
+                "certificateCountry": {
+                    "id": "US",
+                    "text": "United States"
+                },
+                "ratingReason": null
+            },
+            "titleRuntime": null,
+            "chartMeterRanking": {
+                "currentRank": 10,
+                "rankChange": {
+                    "changeDirection": "UP",
+                    "difference": 6
+                }
+            }
+        }
+    ]
+}
