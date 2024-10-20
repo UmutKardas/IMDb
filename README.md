@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-| Home Screen | Result Screen |
+| Home Screen | Search Screen |
 |-------------|---------------|
 | ![Home](https://github.com/user-attachments/assets/37e5a754-73cc-4a0e-b98b-bbf7a2adafa9) | ![Result](https://github.com/user-attachments/assets/3193f4a0-d291-424c-835f-3d2cc712deda) |
 
