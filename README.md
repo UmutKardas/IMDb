@@ -40,7 +40,3 @@ To install and run the IMDb App, follow these steps:
 ## Contributing
 
 If you find any bugs or have suggestions, please open an issue or contribute to the project.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
